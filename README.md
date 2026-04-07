@@ -136,10 +136,7 @@ All narrator biographies, death dates, locations, and reliability grades are sou
 
 ## 🖼️ Screenshots
 
-```
 <img width="922" height="797" alt="image" src="https://github.com/user-attachments/assets/e2e12f3a-ff1d-4c1c-a1d7-bdf8e4cd2230" />
-
-```
 
 ---
 
