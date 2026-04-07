@@ -209,7 +209,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 *"إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ"*
 
-*"Actions are but by intentions"* — Ṣaḥīḥ al-Bukhārī, Hadith 1
+**"Actions are but by intentions"** — Ṣaḥīḥ al-Bukhārī, Hadith 1
 
 ---
 
@@ -218,3 +218,4 @@ Made by **[Zuhaib Butt](https://github.com/zuhaibbutt786)**
 [![GitHub](https://img.shields.io/badge/GitHub-zuhaibbutt786-181717?style=flat-square&logo=github)](https://github.com/zuhaibbutt786)
 
 </div>
+---
